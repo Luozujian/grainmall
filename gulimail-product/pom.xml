@@ -8,11 +8,11 @@
         <version>2.1.8.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.atguigu.gulimail.member</groupId>
-    <artifactId>gulimail-member</artifactId>
+    <groupId>com.atguigu.gulimail.product</groupId>
+    <artifactId>gulimail-product</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gulimail-member</name>
-    <description>gulimail-member</description>
+    <name>gulimail-product</name>
+    <description>谷粒商城-商品服务</description>
 
     <properties>
         <java.version>1.8</java.version>
